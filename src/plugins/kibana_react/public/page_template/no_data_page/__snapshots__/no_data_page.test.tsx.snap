@@ -17,7 +17,7 @@ exports[`NoDataPage render 1`] = `
       ]
     }
     docsLink="test"
-    pageTitle="Welcome to Elastic Elastic!"
+    pageTitle="Welcome to 4C Elastic!"
     solution="Elastic"
   />
   <EuiSpacer

@@ -321,7 +321,7 @@ exports[`LoginPage page renders as expected 1`] = `
       >
         <h1>
           <MemoizedFormattedMessage
-            defaultMessage="Welcome to Elastic"
+            defaultMessage="Welcome to 4C"
             id="xpack.security.loginPage.welcomeTitle"
           />
         </h1>
@@ -414,7 +414,7 @@ exports[`LoginPage page renders with custom branding 1`] = `
       >
         <h1>
           <MemoizedFormattedMessage
-            defaultMessage="Welcome to Elastic"
+            defaultMessage="Welcome to 4C"
             id="xpack.security.loginPage.welcomeTitle"
           />
         </h1>
