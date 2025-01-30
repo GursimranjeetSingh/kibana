@@ -72,6 +72,7 @@ export const AssistantNavLink: FC = () => {
 
   const EuiButtonBasicOrEmpty = chromeStyle === 'project' ? EuiButtonEmpty : EuiButton;
 
+  return null;
   return (
     <InPortal node={portalNode}>
       <EuiToolTip content={TOOLTIP_CONTENT}>
